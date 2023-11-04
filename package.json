@@ -9,5 +9,15 @@
     "openai": "^4.14.2",
     "replicate": "^0.20.1",
     "stripe": "^14.3.0"
-  }
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
